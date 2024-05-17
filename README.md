@@ -15,6 +15,7 @@ Probably the best programming font for Chinese programmers!
 
 ### 使用方式
 下载ttf文件，安装字体，在IDE中选择使用。
+
 PS：由于 Nerd 和中文的缘故，该字体被识别为非等线字体，但不必在意，英文和数字符号部分是等宽的，在实际显示中表现良好。
 ---
 ## English Description:
