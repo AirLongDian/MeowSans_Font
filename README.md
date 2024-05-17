@@ -3,7 +3,7 @@
 
 Probably the best programming font for Chinese programmers!
 ## 显示效果（Display Effect）
-![](src/image/DisplayEffect.png)
+![DisplayEffect.png](https://github.com/AirLongDian/MeowSans_Font/raw/main/src/image/DisplayEffect.png)
 ---
 ## 中文说明：
 ### 字体介绍
