@@ -3,7 +3,6 @@
 
 Probably the best programming font for Chinese programmers!
 ## 显示效果（Display Effect）
-![DisplayEffect.png](https://github.com/AirLongDian/MeowSans_Font/raw/main/src/image/DisplayEffect.png)
 ![DisplayEffect.png](https://github.com/AirLongDian/MeowSans_Font/raw/main/src/image/DE2.png)
 
 ---
@@ -35,7 +34,7 @@ Download the ttf file, install the font, and choose to use it in IDE.
 PS: Because of Nerd and Chinese, this font is recognized as non-equilinear, but don't worry about it, the English and numeric symbols part is equal width, and it performs well in the actual display.
 
 ### 开源协议（license）
-本字体遵循Jetbrains Mono 的SIL许可，具体内容详见
+本字体遵循Jetbrains Mono 与 SourceHanSans 的SIL许可，具体内容详见
 https://openfontlicense.org/
 
-This font is under the SIL license for Jetbrains Mono, see https://openfontlicense.org/ for details.
+This font is under the SIL license for Jetbrains Mono and SourceHanSans, see https://openfontlicense.org/ for details.
