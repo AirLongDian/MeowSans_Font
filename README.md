@@ -10,7 +10,7 @@ Probably the best programming font for Chinese programmers!
 ## 中文说明：
 ### 字体介绍
 1. 首先 JetBrains Mono 用于编辑代码非常好，但是对中文注释支持不佳。  
-2. 然后 OPlusSans 用于中文阅读非常好，但是对代码阅读支持不佳。 
+2. 然后 思源黑体 用于中文阅读非常好，但是对代码阅读支持不佳。 
 3. 并且 这俩字体都不支持 Nerd icon 图标  
 4. 所以我把它们仨缝一起辣！
 
@@ -24,7 +24,7 @@ PS：由于 Nerd 和中文的缘故，该字体被识别为非等线字体，但
 ## English Description:
 ### Font Introduction
 1. First of all JetBrains Mono is great for editing code, but has poor support for Chinese comments.
-2. Then OPlusSans is very good for Chinese reading, but poorly supports code reading. 
+2. Then SourceHanSans is very good for Chinese reading, but poorly supports code reading. 
 3. Also, neither of these fonts supports the Nerd icon. 
 4. So I put the three of them together!
 
